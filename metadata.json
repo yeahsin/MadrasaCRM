@@ -1,0 +1,7 @@
+{
+  "name": "MadrasaStream CRM",
+  "description": "Professional Management System for Madrasas: Tracking Talaba, Asatizah, Halqat, and Hifz progress.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
